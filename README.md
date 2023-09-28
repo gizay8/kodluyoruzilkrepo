@@ -1,12 +1,12 @@
-# Kodluyoruz Ilk Repo
+# Kodluyoruz First Repo
 
-Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Backend Web Development eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+This repo is the first repo we created in the [Kodluyoruz](https://www.kodluyoruz.org) Backend Web Development training. It contains a README file and an index.html.
 
 ![github](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
 
 ## Installation
 
-Öncelikle projeyi clonelayın. 
+First, clone the project.
 
 ```bash
 git clone https://github.com/gizay8/kodluyoruzilkrepo.git
@@ -14,16 +14,16 @@ git clone https://github.com/gizay8/kodluyoruzilkrepo.git
 
 ## Usage
 
-Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+After cloning the project, open it in Visual Studio Code program.
 
-Windows için:
+For Windows:
 ```windows
 cd kodluyoruzilkrepo
 code .
 ```
 
 ## Contributing
-Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+Pull requests are accepted. For major changes, please open a topic first to discuss what you want to change.
 
 
 ## License
